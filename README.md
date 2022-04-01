@@ -5,4 +5,4 @@
 
 # Overview
  - **scraper.py** contains the web scraper and generates **salary_quartiles.csv**.
- - **salary_quartiles.csv** is contains job names and the 3 salary quartiles.
+ - **salary_quartiles.csv** contains job names and their respective salary quartiles.
