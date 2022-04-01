@@ -4,5 +4,5 @@
  - Python beautiful soup library: `pip install beautifulsoup4`
 
 # Overview
- - **scraper.py** contains the web scraper.
- - **salary_quartiles.csv** contains job names and the 3 salary quartiles.
+ - **scraper.py** contains the web scraper and generates **salary_quartiles.csv**.
+ - **salary_quartiles.csv** is contains job names and the 3 salary quartiles.
